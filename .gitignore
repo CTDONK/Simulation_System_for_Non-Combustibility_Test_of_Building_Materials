@@ -1,0 +1,10 @@
+﻿bin/
+obj/
+*.user
+*.suo
+*.vs
+.vs/
+*.db
+*.log
+*.pdb
+*.csproj.user
