@@ -1,0 +1,49 @@
+{
+  "version": 2,
+  "dgSpecHash": "FlTqwBZuloA=",
+  "success": true,
+  "projectFilePath": "D:\\programlearning\\NonCombustibilityTestSimulator\\NonCombustibilityTestSimulator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33828\\.nuget\\packages\\epplus\\8.6.1\\epplus.8.6.1.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\epplus.interfaces\\8.4.0\\epplus.interfaces.8.4.0.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\mathnet.numerics\\5.0.0\\mathnet.numerics.5.0.0.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.data.sqlite\\10.0.9\\microsoft.data.sqlite.10.0.9.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.data.sqlite.core\\10.0.9\\microsoft.data.sqlite.core.10.0.9.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.configuration\\10.0.7\\microsoft.extensions.configuration.10.0.7.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\10.0.7\\microsoft.extensions.configuration.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\10.0.7\\microsoft.extensions.configuration.fileextensions.10.0.7.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.configuration.json\\10.0.7\\microsoft.extensions.configuration.json.10.0.7.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.2\\microsoft.extensions.dependencyinjection.abstractions.8.0.2.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\10.0.7\\microsoft.extensions.fileproviders.abstractions.10.0.7.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\10.0.7\\microsoft.extensions.fileproviders.physical.10.0.7.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\10.0.7\\microsoft.extensions.filesystemglobbing.10.0.7.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.3\\microsoft.extensions.logging.abstractions.8.0.3.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.extensions.primitives\\10.0.7\\microsoft.extensions.primitives.10.0.7.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\microsoft.io.recyclablememorystream\\3.0.1\\microsoft.io.recyclablememorystream.3.0.1.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\oxyplot.core\\2.2.0\\oxyplot.core.2.2.0.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\oxyplot.windowsforms\\2.2.0\\oxyplot.windowsforms.2.2.0.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\pdfsharp\\6.2.4\\pdfsharp.6.2.4.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\pdfsharp-migradoc\\6.2.4\\pdfsharp-migradoc.6.2.4.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\serilog\\4.2.0\\serilog.4.2.0.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\serilog.sinks.file\\7.0.0\\serilog.sinks.file.7.0.0.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.11\\sqlitepclraw.bundle_e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\sqlitepclraw.core\\2.1.11\\sqlitepclraw.core.2.1.11.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.11\\sqlitepclraw.lib.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.11\\sqlitepclraw.provider.e_sqlite3.2.1.11.nupkg.sha512",
+    "C:\\Users\\33828\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1903",
+      "level": "Warning",
+      "message": "包 \"SQLitePCLRaw.lib.e_sqlite3\" 2.1.11 具有已知的 高 严重性漏洞，https://github.com/advisories/GHSA-2m69-gcr7-jv3q",
+      "projectPath": "D:\\programlearning\\NonCombustibilityTestSimulator\\NonCombustibilityTestSimulator.csproj",
+      "warningLevel": 1,
+      "filePath": "D:\\programlearning\\NonCombustibilityTestSimulator\\NonCombustibilityTestSimulator.csproj",
+      "libraryId": "SQLitePCLRaw.lib.e_sqlite3",
+      "targetGraphs": [
+        "net10.0-windows"
+      ]
+    }
+  ]
+}
